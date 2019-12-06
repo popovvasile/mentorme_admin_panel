@@ -1,0 +1,9 @@
+Django==2.0.4
+django-model-changes-py3==0.14.1
+psycopg2==2.7.4
+python-http-client==3.0.0
+pytz==2018.4
+dj_database_url
+django_extensions
+whitenoise==4.1
+django-ses==0.8.7

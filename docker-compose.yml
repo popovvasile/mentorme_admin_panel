@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  web:
+    environment:
+      - SECRET_KEY=0
+      - DEBUG=true
+      - SENDGRID_API_KEY=0
+      - EMAIL_HOST_PASSWORD=0
+    build: .
+    command: python3 manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - "8000:8000"
