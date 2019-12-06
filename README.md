@@ -1,0 +1,5 @@
+# MentorMe
+
+Suntem o echipă de 11 voluntari entuziaști care au creat proiectul MentorMe – primul program de mentorat global din Moldova - fondat în anul 2014, ca urmare a Galei Studenților Originari din Republica Moldova. Această inițiativă a fost inspirată din dorința de a împărtăși cunoștințele și experiențele cu alți concetățeni.  
+MentorMe conectează experții recunoscuți într-un anumit domeniu cu persoanele care au nevoie de o ghidare profesională și carieristă. Astfel, platforma MentorMe va deveni prima sursă de coagulare a unei comunități de tineri moldoveni talentați și ambițioși care se află oriunde în lume. MentorMe se bazează în primă instanță pe accesul către cunoștințele căpătate practic de către alți moldoveni în companii precum Facebook, Google și multe altele.
+Avem o comunitate de 100+ mentori din 23 de țări care au mentorat peste 700 de mentees. Acoperim o varietate de interese și domenii, de la arhitectură și design la finanțe și antreprenoriat. Vrem să atragem mii de mentori și mentees și să facilităm 100,000 de conexiuni până în 2020.  
